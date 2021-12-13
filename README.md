@@ -2,7 +2,7 @@
 
 Tớ tên là Hà minh quân
 
-<img src="https://graph.facebook.com/100074361308622/picture?height=720&width=720&access_token=170440784240186|bc82258eaaf93ee5b9f577a8d401bfc9"> 
+<img src="https://graph.facebook.com/100074361308622/picture?height=720&width=720&access_token=170440784240186|bc82258eaaf93ee5b9f577a8d401bfc9" width="240"> 
 
 
 # **Giới thiệu**
