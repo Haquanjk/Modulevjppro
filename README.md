@@ -1,4 +1,4 @@
-<h1> Xin chào mình là Hà Minh Quân <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="40"></h1>
+<h1> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="40"></h1>
 
 # Tớ tên là Hà minh quân
 
